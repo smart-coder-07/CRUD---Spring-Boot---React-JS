@@ -57,7 +57,7 @@ const Header = () => {
             </li>
             <li>
               <Link to={"/all"}>
-                <a>All</a>
+                <a>All Data</a>
               </Link>
             </li>
           </ul>
